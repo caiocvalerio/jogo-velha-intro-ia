@@ -4,8 +4,7 @@ Ela consiste na implementação do jogo da velha com a maquina utilizando algori
 Implementado para ser possível jogar contra algum dos algoritmos, tendo que escolher qual na inicialização da classe Maquina no main.py ou com outro jogador.<br>
 Para jogar contra a maquina escolher 1 jogador e para jogar contra outro jogador escolher 2 jogadores.<br>
 
-![image](https://github.com/caiocvalerio/jogo-velha-intro-ia/assets/56412590/4a2b6c1d-ca58-48b3-b76f-40763fd885e1)
-
+![image](https://github.com/caiocvalerio/jogo-velha-intro-ia/assets/56412590/f46bc798-8747-4557-9713-e0925f79af09)
 
 Referências: <br>
 https://pt.wikipedia.org/wiki/Minimax <br>
